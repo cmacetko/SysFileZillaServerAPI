@@ -1,0 +1,30 @@
+{
+    "name": "sysfilezillaserverapi",
+    "version": "1.0.1",
+    "description": "SysFileZillaServerAPI e uma API, que roda em Express e utiliza o repositório CtrlFileZillaServer para gerenciar o FileZilla Server de forma remota",
+    "author": "Paloma Macetko <cmacetko@gmail.com>",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "homepage": "https://github.com/cmacetko/sysfilezillaserverapi",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cmacetko/sysfilezillaserverapi"
+    },
+    "bugs": {
+        "url": "https://github.com/cmacetko/sysfilezillaserverapi/issues"
+    },
+    "keywords": [
+        "XXX"
+    ],
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "ctrlfilezillaserver": "^1.0.1",
+        "express": "^4.17.1",
+        "express-basic-auth": "^1.2.0",
+        "path": "^0.12.7",
+        "simple-node-logger": "^18.12.24"
+    }
+}
