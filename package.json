@@ -1,6 +1,6 @@
 {
     "name": "sysfilezillaserverapi",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "SysFileZillaServerAPI e uma API, que roda em Express e utiliza o repositório CtrlFileZillaServer para gerenciar o FileZilla Server de forma remota",
     "author": "Paloma Macetko <cmacetko@gmail.com>",
     "main": "index.js",
@@ -17,7 +17,14 @@
         "url": "https://github.com/cmacetko/sysfilezillaserverapi/issues"
     },
     "keywords": [
-        "XXX"
+        "filezilla",
+        "filezilla server",
+        "ftp",
+        "ftp server",
+        "listar contas",
+        "criar conta",
+        "editar conta",
+        "deletar conta"
     ],
     "dependencies": {
         "body-parser": "^1.19.0",
