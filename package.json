@@ -1,6 +1,6 @@
 {
     "name": "sysfilezillaserverapi",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "SysFileZillaServerAPI e uma API, que roda em Express e utiliza o repositório CtrlFileZillaServer para gerenciar o FileZilla Server de forma remota",
     "author": "Paloma Macetko <cmacetko@gmail.com>",
     "main": "index.js",
